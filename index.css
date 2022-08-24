@@ -1,0 +1,55 @@
+.one{
+      border: 1px solid rgb(54, 51, 51);
+      border-collapse: collapse;
+      width: 100%;
+}
+.header{
+      background-color: green;
+      
+}
+.header th{
+      padding: 15px;
+      color: white;
+      font-family: arial, sans-serif;
+}
+td{
+      padding: 10px;
+      font-family: arial, sans-serif;
+}
+td{
+      border: 1px solid rgb(44, 43, 43);
+}
+
+
+/*--------------------------------------------------------*/
+.skills h{
+      
+      font-size: 30px;
+      font-family: arial, sans-serif;
+      color: green;
+      line-height: 80px;
+     
+
+}
+
+.star{
+      color: green;
+      border: none;
+}
+
+.hidden{
+      visibility: hidden;
+}
+
+.types{
+      border: none;
+}
+/*--------------------------------------------------------*/
+form{
+      margin-top: 20px;
+      line-height: 25px;
+}
+.contact{
+      font-family: arial, sans-serif;
+      color: green; 
+}
